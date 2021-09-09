@@ -1577,6 +1577,35 @@ Go To
   padding: 5px 8px;
 }
 
+.LiveDemo{
+  background-color: red;
+  color: white !important;
+  padding: 5px 10px;
+  border-radius: 2rem;
+  font-size: 1.5rem;
+
+}
+
+.LiveDemo:hover{
+  background-color: aqua;
+  color: red !important;
+
+}
+
+.gitDemo{
+  background-color: black;
+  color: white!important;
+  padding: 5px 10px;
+  border-radius: 2rem;
+  font-size: 1.5rem;
+}
+
+.gitDemo:hover{
+  background-color: greenyellow;
+  color: black  !important;
+
+}
+
 
 
 
